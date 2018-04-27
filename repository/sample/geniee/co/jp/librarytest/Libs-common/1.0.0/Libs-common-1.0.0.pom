@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>sample.geniee.co.jp.librarytest</groupId>
-  <artifactId>Libs-All</artifactId>
+  <artifactId>Libs-common</artifactId>
   <version>1.0.0</version>
   <packaging>aar</packaging>
   <dependencies>
@@ -11,18 +11,6 @@
       <groupId>com.android.support</groupId>
       <artifactId>appcompat-v7</artifactId>
       <version>26.1.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>sample.geniee.co.jp.librarytest</groupId>
-      <artifactId>Libs-v4</artifactId>
-      <version>1.0.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>sample.geniee.co.jp.librarytest</groupId>
-      <artifactId>Libs-v5</artifactId>
-      <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
