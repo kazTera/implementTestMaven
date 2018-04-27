@@ -1,3 +1,2 @@
 # implementTestMaven
 maven test
-kobayashi
