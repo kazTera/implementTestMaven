@@ -15,6 +15,12 @@
     </dependency>
     <dependency>
       <groupId>sample.geniee.co.jp.librarytest</groupId>
+      <artifactId>Libs-common</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>sample.geniee.co.jp.librarytest</groupId>
       <artifactId>Libs-v4</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
